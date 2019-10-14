@@ -1,0 +1,8 @@
+astropy
+future
+matplotlib
+numpy
+pillow
+pyfits
+scikit-image
+scipy
